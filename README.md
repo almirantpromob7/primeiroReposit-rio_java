@@ -1,0 +1,2 @@
+# primeiroReposit-rio_java
+Leitor de salário que faz cálculo de quanto deve ser pago de Imposto de Renda.  Se o salário for R$ 3002.00, a taxa que incide é de 8% apenas sobre R$ 1000.00, pois a faixa de salário que fica de R$ 0.00 até R$ 2000.00 é isenta de Imposto de Renda. A taxa é de 8% sobre R$ 1000.00 + 18% sobre R$ 2.00, o que resulta em R$ 80.36 no total. O valor deve ser impresso com duas casas decimais.
